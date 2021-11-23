@@ -1,1 +1,0 @@
-alert("So nice")
